@@ -2,3 +2,5 @@ nginx:latest
 redis:latest
 mysql:latest
 ubuntu:latest
+centos:latest
+php:fpm
