@@ -17,6 +17,7 @@ jetty:latest
 
 redis:latest
 mysql:latest
+mysql:8.4.2
 mongo:latest
 postgres:latest
 
