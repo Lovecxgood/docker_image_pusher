@@ -13,7 +13,6 @@ php:fpm
 
 nginx:latest
 tomcat:latest
-undertow:latest
 jetty:latest
 
 redis:latest
@@ -21,8 +20,8 @@ mysql:latest
 mongo:latest
 postgres:latest
 
-elasticsearch:8.15.2
-kibana:8.15.2
+docker.elastic.co/elasticsearch/elasticsearch:8.15.2
+docker.elastic.co/kibana/kibana:8.15.2
 
 apache/kafka:latest
 apache/rocketmq:latest
