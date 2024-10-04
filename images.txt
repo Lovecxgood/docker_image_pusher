@@ -14,4 +14,7 @@ tomcat:latest
 redis:latest
 mysql:latest
 mongo:latest
-elasticsearch
+
+apache/kafka:latest
+apache/rocketmq:latest
+rabbitmq:latest
