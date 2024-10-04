@@ -1,6 +1,9 @@
 ubuntu:latest
 centos:latest
+debian:latest
 alpine:latest
+
+jenkins/jenkins:lts
 
 node:latest
 openjdk:latest
@@ -14,6 +17,7 @@ tomcat:latest
 redis:latest
 mysql:latest
 mongo:latest
+postgres:latest
 
 apache/kafka:latest
 apache/rocketmq:latest
