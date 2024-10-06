@@ -1,25 +1,44 @@
 ubuntu:latest
 centos:latest
 debian:latest
+fedora:latest
 alpine:latest
+busybox:latest
 
 jenkins/jenkins:lts
+wordpress:latest
+ghost:latest
 
 node:latest
+deno:latest
 openjdk:latest
 python:latest
+golang:latest
 php:latest
 php:fpm
 
 nginx:latest
 tomcat:latest
 jetty:latest
+tomee:latest
+django:latest
+websphere-liberty:latest
 
 redis:latest
+memcached:latest
 mysql:latest
 mysql:8.4.2
+mariadb:latest
 mongo:latest
 postgres:latest
+neo4j:latest
+influxdb:latest
+hbase:latest
+couchbase:latest
+crate:latest
+couchdb:latest
+
+zookeeper:latest
 
 docker.elastic.co/elasticsearch/elasticsearch:8.15.2
 docker.elastic.co/kibana/kibana:8.15.2
@@ -27,3 +46,14 @@ docker.elastic.co/kibana/kibana:8.15.2
 apache/kafka:latest
 apache/rocketmq:latest
 rabbitmq:latest
+
+swarm:latest
+registry:latest
+
+nextcloud:latest
+
+adminer:latest
+piwik:latest
+matomo:latest
+joomla:latest
+redmine:latest
