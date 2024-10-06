@@ -33,7 +33,7 @@ mongo:latest
 postgres:latest
 neo4j:latest
 influxdb:latest
-hbase:latest
+apache/hbase:latest
 couchbase:latest
 crate:latest
 couchdb:latest
