@@ -1,9 +1,13 @@
+alpine:latest
 ubuntu:latest
 centos:latest
 debian:latest
 fedora:latest
-alpine:latest
+oraclelinux:latest
+amazonlinux:latest
+opensuse:latest
 busybox:latest
+cirros:latest
 
 jenkins/jenkins:lts
 wordpress:latest
@@ -11,6 +15,7 @@ ghost:latest
 
 node:latest
 denoland/deno:latest
+iojs:latest
 openjdk:latest
 python:latest
 golang:latest
@@ -23,6 +28,7 @@ jetty:latest
 tomee:latest
 django:latest
 websphere-liberty:latest
+httpd:latest
 
 redis:latest
 memcached:latest
@@ -37,14 +43,24 @@ harisekhon/hbase:latest
 couchbase:latest
 crate:latest
 couchdb:latest
+cassandra:latest
+rethinkdb:latest
+percona:latest
+arangodb:latest
+orientdb:latest
+aerospike:latest
 
 docker.elastic.co/elasticsearch/elasticsearch:8.15.2
 docker.elastic.co/kibana/kibana:8.15.2
+solr:latest
+crate:latest
 
 zookeeper:latest
 apache/kafka:latest
 apache/rocketmq:latest
 rabbitmq:latest
+nats:latest
+storm:latest
 
 swarm:latest
 registry:latest
@@ -56,3 +72,9 @@ piwik:latest
 matomo:latest
 joomla:latest
 redmine:latest
+joomla:latest
+backdrop:latest
+plone:latest
+mediawiki:latest
+
+scratch:latest
