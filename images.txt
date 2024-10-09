@@ -3,7 +3,6 @@ ubuntu:latest
 centos:latest
 debian:latest
 fedora:latest
-oraclelinux:latest
 amazonlinux:latest
 opensuse:latest
 busybox:latest
