@@ -4,9 +4,9 @@ centos:latest
 debian:latest
 fedora:latest
 amazonlinux:latest
-opensuse:latest
-busybox:latest
+opensuse/leap:latest
 cirros:latest
+busybox:latest
 
 jenkins/jenkins:lts
 wordpress:latest
