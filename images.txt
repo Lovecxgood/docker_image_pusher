@@ -75,5 +75,3 @@ joomla:latest
 backdrop:latest
 plone:latest
 mediawiki:latest
-
-scratch:latest
