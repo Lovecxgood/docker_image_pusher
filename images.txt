@@ -75,3 +75,5 @@ joomla:latest
 backdrop:latest
 plone:latest
 mediawiki:latest
+
+speedtest-x:latest
