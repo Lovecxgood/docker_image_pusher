@@ -78,3 +78,6 @@ mediawiki:latest
 
 badapple9/speedtest-x
 lissy93/dashy:latest
+gitlab/gitlab-ce:latest
+snowdreamtech/frpc
+snowdreamtech/frps
