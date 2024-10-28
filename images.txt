@@ -77,3 +77,4 @@ plone:latest
 mediawiki:latest
 
 badapple9/speedtest-x
+lissy93/dashy:latest
