@@ -83,4 +83,4 @@ snowdreamtech/frpc
 snowdreamtech/frps
 
 dpage/pgadmin4:latest
-fullstorydev/grpcur
+fullstorydev/grpcurl:latest
