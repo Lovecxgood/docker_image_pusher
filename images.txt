@@ -82,5 +82,6 @@ gitlab/gitlab-ce:latest
 snowdreamtech/frpc
 snowdreamtech/frps
 
+phpmyadmin/phpmyadmin:latest
 dpage/pgadmin4:latest
 fullstorydev/grpcurl:latest
