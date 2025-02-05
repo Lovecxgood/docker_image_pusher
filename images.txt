@@ -33,6 +33,8 @@ redis:latest
 memcached:latest
 mysql:latest
 mysql:8.4.2
+mysql:8.4.0
+mysql:8.0.39
 mariadb:latest
 mongo:latest
 postgres:latest
