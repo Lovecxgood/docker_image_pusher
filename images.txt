@@ -34,9 +34,9 @@ memcached:latest
 mysql:latest
 mysql:8.4.2
 mysql:8.4.0
+mysql:8.4.0-oraclelinux8
 mysql:8.0.39
 mysql:8.0.39-debian
-mysql:8.4.0-oraclelinux8
 mariadb:latest
 mongo:latest
 postgres:latest
