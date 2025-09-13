@@ -41,6 +41,7 @@ mariadb:latest
 mongo:latest
 postgres:latest
 neo4j:latest
+clickhouse:latest
 influxdb:latest
 harisekhon/hbase:latest
 couchbase:latest
