@@ -67,6 +67,7 @@ apache/rocketmq:latest
 rabbitmq:latest
 nats:latest
 storm:latest
+consul:1.15.4
 
 swarm:latest
 registry:latest
