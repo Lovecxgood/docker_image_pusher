@@ -96,3 +96,4 @@ dpage/pgadmin4:latest
 fullstorydev/grpcurl:latest
 
 tensorflow/tensorflow:nightly-jupyter
+langchain/langchain
