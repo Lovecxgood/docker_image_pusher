@@ -1,5 +1,7 @@
 alpine:latest
 ubuntu:latest
+ubuntu:24.04
+ubuntu:22.04
 debian:latest
 fedora:latest
 amazonlinux:latest
@@ -12,9 +14,10 @@ wordpress:latest
 ghost:latest
 
 node:latest
+node:lts-alpine
 denoland/deno:latest
 iojs:latest
-openjdk:latest
+#openjdk:latest
 python:latest
 golang:latest
 php:latest
@@ -32,6 +35,7 @@ redis:latest
 memcached:latest
 
 mysql:latest
+mysql:lts
 mysql:8.4.2
 mysql:8.4.0
 mysql:8.4.0-oraclelinux8
