@@ -8,6 +8,8 @@ amazonlinux
 opensuse/leap
 cirros
 busybox
+centos:8
+centos:centos8.4.2105
 
 jenkins/jenkins:lts
 wordpress
@@ -18,11 +20,15 @@ node:lts-alpine
 denoland/deno
 iojs
 #openjdk
-openjdk:27-ea-nanoserver-ltsc2025
+#openjdk:27-ea-nanoserver-ltsc2025
+openjdk:27-ea-nanoserver
 python
 golang
 php
 php:fpm
+rust
+erlang:29-alpine
+groovy
 
 nginx
 tomcat
@@ -31,6 +37,7 @@ tomee
 django
 websphere-liberty
 httpd
+httpd:alpine
 
 redis
 memcached
@@ -43,8 +50,10 @@ mysql:8.4.0-oraclelinux8
 mysql:8.0.39
 mysql:8.0.39-debian
 mariadb
+mariadb:lts
 mongo
 postgres
+postgres:alpine
 neo4j
 clickhouse
 influxdb
