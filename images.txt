@@ -94,3 +94,5 @@ snowdreamtech/frps
 phpmyadmin/phpmyadmin:latest
 dpage/pgadmin4:latest
 fullstorydev/grpcurl:latest
+
+tensorflow/tensorflow:nightly-jupyter
