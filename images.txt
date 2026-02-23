@@ -21,7 +21,7 @@ denoland/deno
 iojs
 #openjdk
 #openjdk:27-ea-nanoserver-ltsc2025
-openjdk:27-ea-nanoserver
+#openjdk:27-ea-nanoserver
 python
 golang
 php
