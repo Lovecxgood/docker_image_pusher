@@ -44,11 +44,14 @@ memcached
 
 mysql
 mysql:lts
-mysql:8.4.2
-mysql:8.4.0
-mysql:8.4.0-oraclelinux8
-mysql:8.0.39
-mysql:8.0.39-debian
+mysql:lts-oracle
+mysql:lts-oraclelinux9
+mysql:8.4.8
+mysql:8.4.8-oracle
+mysql:8.4.8-oraclelinux9
+mysql:9.6.0
+mysql:9.6.0-oracle
+mysql:9.6.0-oraclelinux9
 mariadb
 mariadb:lts
 mongo
