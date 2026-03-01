@@ -46,6 +46,7 @@ mysql
 mysql:lts
 mysql:lts-oracle
 mysql:lts-oraclelinux9
+mysql:8.0.45-debian
 mysql:8.4.8
 mysql:8.4.8-oracle
 mysql:8.4.8-oraclelinux9
