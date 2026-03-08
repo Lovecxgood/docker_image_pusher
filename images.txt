@@ -116,8 +116,14 @@ fullstorydev/grpcurl
 tensorflow/tensorflow:nightly-jupyter
 langchain/langchain
 
-pytorch/torchserve:0.11.0-gpu
-pytorch/torchserve:0.11.0-cpu
+pytorch/torchserve:0.8.2-gpu
+pytorch/torchserve:0.8.2-cpu
+pytorch/torchserve:0.9.0-gpu
+pytorch/torchserve:0.9.0-cpu
+pytorch/torchserve:0.10.0-gpu
+pytorch/torchserve:0.10.0-cpu
+pytorch/torchserve:0.11.1-gpu
+pytorch/torchserve:0.11.1-cpu
 pytorch/torchserve:0.12.0-gpu
 pytorch/torchserve:0.12.0-cpu
 pytorch/torchserve:latest-gpu
